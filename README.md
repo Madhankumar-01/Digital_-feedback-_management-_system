@@ -20,15 +20,19 @@ Project Objectives
 Technologies Used 
 
 Frontend
+
   HTML
   CSS
   JavaScript
 
 Backend
+
    MySQL Database
 
 
 Advantages
+
+
   Easy feedback collection
   Reduces paperwork
   Quick report generation
