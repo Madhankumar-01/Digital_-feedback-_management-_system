@@ -34,8 +34,12 @@ Advantages
 
 
   Easy feedback collection
+
   Reduces paperwork
+
   Quick report generation
+
   Secure data storage
+
   Improves decision-making
 
